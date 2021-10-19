@@ -14,4 +14,4 @@ defined('_JEXEC') or die;
 
 $moduleclass_sfx = htmlspecialchars($params->get('moduleclass_sfx'));
 
-require ModuleHelper::getLayoutPath('mod_mstestimony', $params->get('layout', 'default'));
+require ModuleHelper::getLayoutPath('mod_mstestimonsana', $params->get('layout', 'default'));
