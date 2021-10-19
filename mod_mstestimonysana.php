@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    M.S. Testimony Module
+ * @package    M.S. Testimony Sanacion de Utero
  *
  * @author     Koen Vandezande <koen@rioguides.biz>
  * @copyright  RioGuides.Biz
